@@ -1,0 +1,30 @@
+.servises {
+
+    li {
+        border-radius: 30px;
+        box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1);
+        background: rgb(255, 255, 255);
+        padding: 15px 29px;
+        margin-bottom: 40px;
+
+        .title {
+            color: rgb(28, 28, 39);
+            font-size: 17px;
+            font-weight: 600;
+            line-height: 21px;
+            letter-spacing: 0%;
+            text-align: left;
+            margin-bottom: 15px;
+        }
+
+        p {
+            color: rgb(0, 0, 0);
+            font-size: 17px;
+            font-weight: 400;
+            line-height: 21px;
+            letter-spacing: 0%;
+            margin-left: 10px;
+            margin-bottom: 30px;
+        }
+    }
+}

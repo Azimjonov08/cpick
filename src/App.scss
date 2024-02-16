@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    display: inline-block;
+}
+
+img {
+    display: inline-block;
+    // cursor: url('../game.png');
+    cursor:pointer;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+    background-color: rgb(234, 234, 234);
+    
+}
+
+button {
+    cursor: pointer;
+    border: none;
+}
+
+.container {
+    max-width: 100%;
+    width: 1135px;
+    margin: 0 auto;
+    padding: 0 20px;
+}

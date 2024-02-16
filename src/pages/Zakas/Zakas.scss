@@ -1,0 +1,189 @@
+.zakas {
+
+    .box {
+        display: flex;
+        gap: 0 30px;
+    }
+
+    .kuryer {
+        border-radius: 30px;
+        box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1);
+        background: rgb(255, 255, 255);
+        width: 445px;
+        padding: 23px 38px;
+        margin-bottom: 100px;
+        margin-top: 20px;
+    }
+
+    .title {
+        color: rgb(28, 28, 39);
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 24px;
+        letter-spacing: 0%;
+        text-align: left;
+        margin-bottom: 12px;
+    }
+
+    .kuryer-nav {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 20px;
+
+        h5 {
+            color: rgb(0, 0, 0);
+            font-size: 17px;
+            font-weight: 600;
+            line-height: 21px;
+            letter-spacing: 0%;
+        }
+
+        p {
+            color: rgb(0, 0, 0);
+            font-size: 15px;
+            font-weight: 500;
+            line-height: 18px;
+            letter-spacing: 0%;
+        }
+    }
+
+    .iimg {
+        border-radius: 10px;
+    }
+
+    .gorod {
+        margin-top: 15px;
+        color: rgb(0, 0, 0);
+        font-size: 15px;
+        font-weight: 500;
+        line-height: 18px;
+        letter-spacing: 0%;
+        text-align: left;
+    }
+
+    .inp-1 {
+        width: 368px;
+        height: 40px;
+        padding-left: 14px;
+        border-radius: 15px;
+        background: rgb(214, 214, 214);
+        border: none;
+        margin-bottom: 10px;
+        margin-top: 18px;
+    }
+
+    .inp-box {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 13px 30px;
+
+        input {
+            width: 164px;
+            height: 40px;
+            padding-left: 14px;
+            border-radius: 15px;
+            background: rgb(214, 214, 214);
+            border: none;
+        }
+    }
+
+    .left-top {
+        border-radius: 30px;
+        box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1);
+        background: rgb(255, 255, 255);
+        width: 445px;
+        padding: 15px 20px;
+        margin-bottom: 15px;
+
+        .title {
+            margin-bottom: 25px;
+        }
+    }
+
+    .div-1 {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 12px;
+
+        p {
+            color: rgb(0, 0, 0);
+            font-size: 15px;
+            font-weight: 500;
+            line-height: 18px;
+            letter-spacing: 0%;
+        }
+    }
+
+    .div {
+        display: flex;
+        align-items: center;
+        gap: 0 252px;
+        margin-bottom: 12px;
+
+        p {
+            color: rgb(0, 0, 0);
+            font-size: 15px;
+            font-weight: 500;
+            line-height: 18px;
+            letter-spacing: 0%;
+        }
+
+        .p {
+            margin-left: 35px;
+        }
+    }
+
+    .left-center {
+        border-radius: 30px;
+        box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1);
+        background: rgb(255, 255, 255);
+        width: 445px;
+        padding: 15px;
+        margin-bottom: 20px;
+    }
+
+    .left-bottom {
+        border-radius: 30px;
+        box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1);
+        background: rgb(255, 255, 255);
+        padding: 20px;
+
+    }
+
+    .visa {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 20px;
+    }
+
+    .bonus {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 20px;
+
+        input {
+            border: none;
+            margin-left: 55px;
+        }
+    }
+
+    .btnnn {
+        margin-top: 30px;
+        border-radius: 10px;
+        box-shadow: 0px 0px 20px 0px rgba(67, 216, 84, 0.25);
+        background: rgb(16, 16, 16);
+        width: 445px;
+        color: rgb(255, 255, 255);
+        font-size: 15px;
+        font-weight: 500;
+        line-height: 18px;
+        letter-spacing: 0%;
+        text-align: center;
+        padding: 15px 0;
+    }
+
+}

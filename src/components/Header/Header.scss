@@ -1,0 +1,20 @@
+.header {
+
+    .header-box {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 42px;
+    }
+
+    .divv {
+        display: flex;
+        align-items: center;
+        gap: 0 64px;
+    }
+
+    .vozz {
+        display: flex;
+        align-items: center;
+    }
+}
